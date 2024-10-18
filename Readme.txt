@@ -10,4 +10,8 @@
 9. Allow authrozie git
 10. git push -u origin master
 
+Create Branch
+git pull
+git checkout -b new-branch
+
 
