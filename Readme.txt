@@ -12,6 +12,13 @@
 
 Create Branch
 git pull
-git checkout -b new-branch
+git checkout -b new-branch'
+made changes
+git add .
+git commit -m "first commit"
+git push
 
+goto git, compare and  do pull request 
+merge pull request
+changes are reflected in master branch
 
