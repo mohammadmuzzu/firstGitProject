@@ -22,3 +22,6 @@ goto git, compare and  do pull request
 merge pull request
 changes are reflected in master branch
 
+git clone url from git 
+
+
